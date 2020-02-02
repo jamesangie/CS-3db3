@@ -1,0 +1,347 @@
+HNAME                                                        CITY                                                        
+------------------------------------------------------------ ------------------------------------------------------------
+Toronto General Hospital                                     Toronto                                                     
+Toronto Western Hospital                                     Toronto                                                     
+McMaster University Medical Centre                           Hamilton                                                    
+Trillium Health Partners                                     Mississauga                                                 
+
+  4 record(s) selected.
+
+
+
+FIRSTNAME                                                    LASTNAME                                                     GENDER                                                       DATEOFBIRTH
+------------------------------------------------------------ ------------------------------------------------------------ ------------------------------------------------------------ -----------
+Von                                                          Aprigliano                                                   F                                                            06/05/1983 
+Paulina                                                      Arand                                                        F                                                            09/24/2000 
+Elfriede                                                     Bakeley                                                      F                                                            02/09/1999 
+Leonor                                                       Beilinson                                                    M                                                            05/27/2014 
+Paris                                                        Bellis                                                       F                                                            05/22/2008 
+Tesha                                                        Brang                                                        M                                                            02/06/1986 
+Cortney                                                      Choice                                                       F                                                            01/22/2007 
+Shannan                                                      Cupit                                                        F                                                            09/22/2002 
+Thora                                                        Daneker                                                      M                                                            01/20/2004 
+Dorcas                                                       Diebold                                                      M                                                            01/20/2004 
+Bong                                                         Fears                                                        M                                                            02/08/1999 
+Essie                                                        Fitzke                                                       M                                                            04/04/1988 
+Maddie                                                       Foulds                                                       F                                                            09/24/2000 
+Sommer                                                       Frere                                                        M                                                            09/22/2002 
+Lottie                                                       Hegdahl                                                      M                                                            09/26/2008 
+Billi                                                        Kazar                                                        M                                                            06/03/1995 
+Hollis                                                       Keomuangtai                                                  F                                                            04/04/1988 
+Shawnee                                                      Kesten                                                       M                                                            01/22/2007 
+Shay                                                         Knieper                                                      M                                                            06/05/1983 
+Dona                                                         Larner                                                       F                                                            05/25/2001 
+Rodney                                                       Lockamy                                                      F                                                            05/20/2005 
+Percy                                                        Neelon                                                       M                                                            01/22/2007 
+Rosalind                                                     Persechino                                                   F                                                            06/09/1988 
+Oliva                                                        Ramerez                                                      F                                                            06/01/1994 
+Melvin                                                       Rather                                                       M                                                            06/03/1995 
+Stanton                                                      Rigazio                                                      M                                                            09/24/2000 
+Glennis                                                      Roseum                                                       M                                                            06/07/1988 
+Yolande                                                      Staiano                                                      F                                                            02/09/1999 
+Margot                                                       Storrs                                                       M                                                            09/22/2002 
+Shenika                                                      Tapian                                                       M                                                            06/10/1988 
+Veta                                                         Vandeberg                                                    M                                                            06/01/1994 
+Terrilyn                                                     Waska                                                        M                                                            01/25/2002 
+Rochell                                                      Wetherby                                                     F                                                            09/20/2009 
+Amber                                                        Windell                                                      F                                                            05/20/2005 
+Cordell                                                      Zinda                                                        M                                                            07/23/1988 
+
+  35 record(s) selected.
+
+
+
+SPECIALTY                                                                                            AVE        
+---------------------------------------------------------------------------------------------------- -----------
+General Surgery                                                                                           200952
+Ophthalmology                                                                                             182500
+Otolaryngology                                                                                            190000
+Radiology                                                                                                 140000
+
+  4 record(s) selected.
+
+
+
+SPECIALTY                                                                                            AVE        
+---------------------------------------------------------------------------------------------------- -----------
+General Surgery                                                                                           200952
+Ophthalmology                                                                                             182500
+Otolaryngology                                                                                            190000
+
+  3 record(s) selected.
+
+
+
+YEARSOFPRACTICE AVE        
+--------------- -----------
+             28      160000
+             26      160000
+             24      160000
+             22      150000
+             21      150000
+             18      150000
+             17      144000
+             15      120000
+             14      120000
+             13      104000
+             12      100000
+             11      100000
+             10      100000
+              9       80000
+              8       80000
+              7       80000
+              2       60000
+              1       60000
+
+  18 record(s) selected.
+
+
+
+HNAME                                                        NUM        
+------------------------------------------------------------ -----------
+Hamilton General Hospital                                              7
+McMaster University Medical Centre                                    29
+Toronto General Hospital                                              21
+Toronto Western Hospital                                              12
+Trillium Health Partners                                               9
+
+  5 record(s) selected.
+
+
+
+DNAME                                                       
+------------------------------------------------------------
+General Surgery                                             
+Intensive Care Unit                                         
+Ophthalmology                                               
+Otolaryngology                                              
+Radiology                                                   
+
+  5 record(s) selected.
+
+
+
+STUFFNUMBER DNAME                                                        HNAME                                                       
+----------- ------------------------------------------------------------ ------------------------------------------------------------
+         40 General Surgery                                              McMaster University Medical Centre                          
+
+  1 record(s) selected.
+
+
+
+DNAME                                                       
+------------------------------------------------------------
+Dermatology                                                 
+Neonatal ICU                                                
+Oncology and hematology                                     
+
+  3 record(s) selected.
+
+
+
+FIRSTNAME                                                    LASTNAME                                                    
+------------------------------------------------------------ ------------------------------------------------------------
+Georgiana                                                    Colbath                                                     
+Adolph                                                       Krivanec                                                    
+Rana                                                         Lehn                                                        
+Florinda                                                     Mackedanz                                                   
+Chi                                                          Morgan                                                      
+Brinda                                                       Mrkvicka                                                    
+Starr                                                        Prothro                                                     
+Ellsworth                                                    Rieg                                                        
+Nadine                                                       Swartzbeck                                                  
+Arlette                                                      Torchio                                                     
+
+  10 record(s) selected.
+
+
+
+FIRSTNAME                                                    LASTNAME                                                    
+------------------------------------------------------------ ------------------------------------------------------------
+Marnie                                                       Purslow                                                     
+Bernadine                                                    Shufelt                                                     
+Oliva                                                        Ambert                                                      
+Maricela                                                     Conger                                                      
+
+  4 record(s) selected.
+
+
+
+DATE       NUMBEROFPATIENTS
+---------- ----------------
+07/03/2017               11
+
+  1 record(s) selected.
+
+
+
+DRUGCODE             NAME                                                                                                 REVENUE    
+-------------------- ---------------------------------------------------------------------------------------------------- -----------
+drg_28850201         Acetaminophen (Liquid)                                                                                     18400
+
+  1 record(s) selected.
+
+
+
+PATIENTID   FIRSTNAME                                                    LASTNAME                                                     GENDER                                                      
+----------- ------------------------------------------------------------ ------------------------------------------------------------ ------------------------------------------------------------
+   99619427 Brunilda                                                     Coin                                                         M                                                           
+   99642131 Shenika                                                      Tapian                                                       M                                                           
+
+  2 record(s) selected.
+
+
+
+PHYSICIANID DISEASE                                                                                                                                                                                                  PROGNOSIS                                                   
+----------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
+   99653992 AIDS (Acquired Immunodeficiency Syndrome)                                                                                                                                                                good                                                        
+   99653992 Asthma                                                                                                                                                                                                   poor                                                        
+   99653992 Attention Deficit/Hyperactivity Disorder                                                                                                                                                                 excellent                                                   
+   99653992 CDI (Chronic Disease Indicators)                                                                                                                                                                         good                                                        
+   99653992 Cerebral Palsy                                                                                                                                                                                           very poor                                                   
+   99653992 Colorectal (Colon) Cancer                                                                                                                                                                                poor                                                        
+   99653992 Diabetes                                                                                                                                                                                                 excellent                                                   
+   99653992 Diet and Nutrition                                                                                                                                                                                       fair                                                        
+   99653992 Diphtheria [Corynebacterium diphtheriae?Infection]                                                                                                                                                       very poor                                                   
+   99653992 Diphyllobothrium?Infection [Diphyllobothriasis]                                                                                                                                                          good                                                        
+   99653992 Enteric Diseases from Animals                                                                                                                                                                            good                                                        
+   99653992 Enterovirus D68                                                                                                                                                                                          poor                                                        
+   99653992 Epidemic Typhus                                                                                                                                                                                          excellent                                                   
+   99653992 Fragile X Syndrome (FXS)                                                                                                                                                                                 fair                                                        
+
+  14 record(s) selected.
+
+
+
+TOTAL                             PATIENTID  
+--------------------------------- -----------
+                           550.00    99642131
+                           430.00    99665378
+                           310.00    99627956
+
+  3 record(s) selected.
+
+
+
+TOTAL       PATIENTID  
+----------- -----------
+       1623    99665378
+       1130    99642131
+        659    99627956
+        370    99620783
+        331    99642157
+        300    99664061
+        153    99615376
+         20    99620882
+         20    99621221
+         20    99655482
+         10    99618797
+
+  11 record(s) selected.
+
+
+
+ID          FIRSTNAME                                                    LASTNAME                                                    
+----------- ------------------------------------------------------------ ------------------------------------------------------------
+   99664108 Adria                                                        Gilliam                                                     
+   99615237 Paola                                                        Perkins                                                     
+   99648570 Zoila                                                        Lannigan                                                    
+   99641181 Yong                                                         Yestramski                                                  
+   99623419 Annamaria                                                    Vanhuss                                                     
+   99624334 Dorothea                                                     Lowther                                                     
+   99666188 Trinidad                                                     Bredernitz                                                  
+   99655048 Herminia                                                     Penso                                                       
+   99647155 Buck                                                         Kotow                                                       
+   99629669 Toi                                                          Rollison                                                    
+   99656170 Tamera                                                       Crocker                                                     
+   99611060 Melvin                                                       Rather                                                      
+   99640787 Ruby                                                         Sensibaugh                                                  
+   99650205 Caren                                                        Doscher                                                     
+   99632402 Sommer                                                       Frere                                                       
+   99659862 Gretchen                                                     Mckeon                                                      
+   99655278 Romana                                                       Riesgraf                                                    
+   99639491 Nobuko                                                       Logwood                                                     
+   99664554 Jacinta                                                      Deppen                                                      
+   99612305 Tawanna                                                      Kuamoo                                                      
+   99659163 Ellen                                                        Fajen                                                       
+   99647546 Tequila                                                      Pelletier                                                   
+   99639233 Noble                                                        Miyata                                                      
+   99655482 Lucille                                                      Hubbell                                                     
+   99662039 King                                                         Suman                                                       
+   99656154 Denny                                                        Zeanah                                                      
+   99638299 Jeannine                                                     Rippy                                                       
+   99656778 Lashaun                                                      Casteneda                                                   
+   99624716 Dion                                                         Lamastus                                                    
+   99626170 Hassie                                                       Sarkin                                                      
+   99654086 Irene                                                        Benauides                                                   
+   99659704 Colton                                                       Pesqueira                                                   
+   99627287 Shelba                                                       Kast                                                        
+   99664504 Dorcas                                                       Diebold                                                     
+   99618866 Stefanie                                                     Prinkey                                                     
+   99654264 Kenia                                                        Sharples                                                    
+   99654491 Billi                                                        Kazar                                                       
+   99643369 Aron                                                         Leuthold                                                    
+   99641166 Shala                                                        Ogle                                                        
+   99612267 Shasta                                                       Canonico                                                    
+   99651536 Myra                                                         Palenik                                                     
+   99650801 Lawanda                                                      Jacocks                                                     
+   99654361 Kathrine                                                     Kaper                                                       
+   99645166 Oneida                                                       Pospishil                                                   
+   99648402 Nakisha                                                      Russi                                                       
+   99629373 Stephanie                                                    Rolling                                                     
+   99643350 Malcom                                                       Vereen                                                      
+   99622055 Louvenia                                                     Abney                                                       
+   99640670 Nydia                                                        Ancar                                                       
+   99623422 Hana                                                         Meisel                                                      
+   99648249 Nguyet                                                       Kitchens                                                    
+   99656171 Janae                                                        Mair                                                        
+   99655646 Giovanna                                                     Bacho                                                       
+   99620882 Shelton                                                      Spannuth                                                    
+   99618774 Timothy                                                      Bussert                                                     
+   99661988 Viola                                                        Eddens                                                      
+   99644839 Sabine                                                       Kaea                                                        
+   99650187 Dolores                                                      Moltz                                                       
+   99660060 Cletus                                                       Stapels                                                     
+   99661299 Asha                                                         Zoldak                                                      
+   99625615 Tayna                                                        Sine                                                        
+   99640613 Verona                                                       Jobst                                                       
+   99621332 Nan                                                          Weekly                                                      
+   99658703 Sherell                                                      Despain                                                     
+   99635163 Jesse                                                        Wida                                                        
+   99636025 Latonia                                                      Helander                                                    
+   99658811 Ilda                                                         Schuring                                                    
+   99634002 Aileen                                                       Klukken                                                     
+   99641334 Angelyn                                                      Wieand                                                      
+   99658409 Claudio                                                      Hummell                                                     
+   99622397 Ryan                                                         Phibbs                                                      
+   99614409 Edmond                                                       Buettner                                                    
+   99628800 Jules                                                        Erichsen                                                    
+   99652373 Denna                                                        Miklitz                                                     
+   99664641 Ollie                                                        Oliverson                                                   
+   99636946 Sherly                                                       Vitrano                                                     
+   99620124 Marshall                                                     Fitgerald                                                   
+   99631138 Kelvin                                                       Hasha                                                       
+   99613091 Wilson                                                       Nickelson                                                   
+   99645846 Malissa                                                      Talty                                                       
+   99619113 Desirae                                                      Oien                                                        
+   99662586 Delsie                                                       Cerao                                                       
+   99645381 Rene                                                         Granier                                                     
+   99615376 Trevor                                                       Harnist                                                     
+   99610308 Bernadine                                                    Shufelt                                                     
+   99645924 Shad                                                         Reider                                                      
+   99623141 Joaquin                                                      Geitner                                                     
+   99642422 Slyvia                                                       Stockham                                                    
+   99611074 Lavelle                                                      Lillywhite                                                  
+   99619939 Bev                                                          Dermo                                                       
+   99616277 Shakira                                                      Westervelt                                                  
+   99633214 Matt                                                         Nickolich                                                   
+   99656674 Ranee                                                        Maye                                                        
+   99643150 Ming                                                         Eskew                                                       
+   99648102 Maricela                                                     Conger                                                      
+   99662272 Esteban                                                      Plantenberg                                                 
+   99643428 Amie                                                         Okuniewski                                                  
+   99650614 Bulah                                                        Berkoff                                                     
+   99629779 Leslee                                                       Matsuno                                                     
+   99639966 Daniel                                                       Dobler                                                      
+
+  100 record(s) selected.
